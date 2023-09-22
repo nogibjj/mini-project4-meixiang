@@ -1,4 +1,4 @@
-
+[![CI](https://github.com/nogibjj/mini-project4-meixiang/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mini-project4-meixiang/actions/workflows/cicd.yml)
 
 Overall Task:
 
